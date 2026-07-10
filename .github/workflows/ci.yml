@@ -29,3 +29,6 @@ jobs:
       - name: Run tests
         working-directory: task-1
         run: pytest
+
+      - name: Build Docker image
+        run: docker build -t flask-app ./task-1
