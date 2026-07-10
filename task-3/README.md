@@ -137,14 +137,33 @@ Displays:
 
 ## Screenshots
 
-- Terraform Initialization
-- Terraform Validation
-- Terraform Plan
-- Terraform Outputs
-- EC2 Instance Running
-- Security Group Rules
-- S3 Bucket Created
-- S3 Public Access Block Enabled
+### Terraform Initialization
+
+![Terraform Initialization](screenshots/terraform-init-success.png)
+
+### Terraform Validation
+
+![Terraform Validation](screenshots/terraform-validate-success.png)
+
+### Terraform Outputs
+
+![Terraform Outputs](screenshots/terraform-output.png)
+
+### EC2 Instance Running
+
+![EC2 Instance Running](screenshots/ec2-instance-running.png)
+
+### Security Group Rules
+
+![Security Group Rules](screenshots/security-group-rules.png)
+
+### S3 Bucket Created
+
+![S3 Bucket Created](screenshots/s3-bucket-created.png)
+
+### S3 Public Access Block
+
+![S3 Public Access Block](screenshots/s3-public-access-blocked.png)
 
 ---
 
