@@ -12,8 +12,8 @@ Deploy the Dockerized Flask application from Task 1 to an Amazon EC2 instance us
 - Amazon VPC (Default)
 - Amazon Security Groups
 - Docker
-- Amazon CloudWatch (Bonus)
-- Amazon SNS (Bonus)
+- Amazon CloudWatch 
+- Amazon SNS 
 
 ---
 
@@ -63,7 +63,7 @@ The principle of least privilege should always be followed by granting only the 
 
 ---
 
-## CloudWatch Monitoring (Bonus)
+## CloudWatch Monitoring
 
 A CloudWatch alarm was configured to monitor EC2 CPU utilization.
 
@@ -115,7 +115,7 @@ The deployment was verified by:
 
 ---
 
-### CloudWatch CPU Alarm (Bonus)
+### CloudWatch CPU Alarm
 
 ![CloudWatch Alarm](screenshots/cloudwatch-cpu-alarm.png)
 
